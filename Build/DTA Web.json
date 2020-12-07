@@ -1,0 +1,16 @@
+{
+"companyName": "Carpet Dog Games",
+"productName": "DTA Helper",
+"productVersion": "0.9.1",
+"dataUrl": "DTA Web.data.unityweb",
+"wasmCodeUrl": "DTA Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "DTA Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#000000",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.11f1"
+}
