@@ -1,7 +1,7 @@
 {
 "companyName": "Carpet Dog Games",
 "productName": "DTA Helper",
-"productVersion": "1.0",
+"productVersion": "1.2.1",
 "dataUrl": "DTA-Helper-Web.data.unityweb",
 "wasmCodeUrl": "DTA-Helper-Web.wasm.code.unityweb",
 "wasmFrameworkUrl": "DTA-Helper-Web.wasm.framework.unityweb",
