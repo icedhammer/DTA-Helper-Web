@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/DTA-Helper-Web/static/css/main.e6e88076.chunk.css",
+    "main.js": "/DTA-Helper-Web/static/js/main.672bb2e8.chunk.js",
+    "main.js.map": "/DTA-Helper-Web/static/js/main.672bb2e8.chunk.js.map",
+    "runtime-main.js": "/DTA-Helper-Web/static/js/runtime-main.806958df.js",
+    "runtime-main.js.map": "/DTA-Helper-Web/static/js/runtime-main.806958df.js.map",
+    "static/js/2.19b25d99.chunk.js": "/DTA-Helper-Web/static/js/2.19b25d99.chunk.js",
+    "static/js/2.19b25d99.chunk.js.map": "/DTA-Helper-Web/static/js/2.19b25d99.chunk.js.map",
+    "static/js/3.8d0a87f6.chunk.js": "/DTA-Helper-Web/static/js/3.8d0a87f6.chunk.js",
+    "static/js/3.8d0a87f6.chunk.js.map": "/DTA-Helper-Web/static/js/3.8d0a87f6.chunk.js.map",
+    "index.html": "/DTA-Helper-Web/index.html",
+    "static/css/main.e6e88076.chunk.css.map": "/DTA-Helper-Web/static/css/main.e6e88076.chunk.css.map",
+    "static/js/2.19b25d99.chunk.js.LICENSE.txt": "/DTA-Helper-Web/static/js/2.19b25d99.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/DTA-Helper-Web/static/media/PhosphatePro-Solid.76cb8d6d.otf",
+    "static/media/logo.6ce24c58.svg": "/DTA-Helper-Web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.806958df.js",
+    "static/js/2.19b25d99.chunk.js",
+    "static/css/main.e6e88076.chunk.css",
+    "static/js/main.672bb2e8.chunk.js"
+  ]
+}
